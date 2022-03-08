@@ -10,7 +10,7 @@
 
 	<properties>
 		<jdk.version>13</jdk.version>
-		<version.apache-poi-scratchpad>4.1.1</version.apache-poi-scratchpad>
+		<version.apache-poi-scratchpad>5.2.1</version.apache-poi-scratchpad>
 	</properties>
 
 	<dependencies>
